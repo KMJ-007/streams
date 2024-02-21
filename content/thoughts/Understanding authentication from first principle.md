@@ -11,3 +11,5 @@ enableToc: false
 so i come across this tweet by chinmay, and i also thought, he has point, and talking BS, i also have macro view and believes which i read on the Internet and tutorial i learned from about the how to implement auth, i think i need to explore this rabbit hole, 
 
 understanding authentication from first principle, starting from very basic example and deriving things as we need
+
+also pilcrow also announced few weeks ago, that he is also working on something similar 
