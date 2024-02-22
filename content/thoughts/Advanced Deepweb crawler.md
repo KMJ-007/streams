@@ -12,3 +12,5 @@ link to the paper: https://www.eurchembull.com/uploads/paper/985c7c89d52228caa8e
 
 
 plz write a blog if you end up doing this, will be helpful to the other people
+
+also real time wasm demo will be cool
