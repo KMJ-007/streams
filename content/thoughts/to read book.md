@@ -1,5 +1,5 @@
 ---
-title: book shelf
+title: to read book
 date: 2024-02-21
 tags:
   - evergreen
@@ -12,3 +12,5 @@ skim through them and categorise them:
 https://arpitbhayani.me/papershelf
 https://notes.ekzhang.com/events/nysrg
 https://notes.ekzhang.com/events/hsrg
+
+- [Structure and Interpretation of Classical Mechanics](https://www.amazon.com/Structure-Interpretation-Classical-Mechanics-Press-dp-0262028964/dp/0262028964/ref=dp_ob_title_bk)
