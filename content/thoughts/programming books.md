@@ -19,4 +19,4 @@ Programming books on my reading list:
 - [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/dp/0735611319)
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions-dp-0984782850/dp/0984782850/ref=dp_ob_title_bk)
 - [Working in Public: The Making and Maintenance of Open Source Software](https://www.amazon.com/dp/0578675862/)
-- 
+- https://medium.com/gojekengineering/the-go-jek-reading-list-1088712ccc14
