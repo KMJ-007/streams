@@ -20,3 +20,4 @@ first i need to complete two blogs:
 - nodejs oberservability using signoz
 - how we increased the pdf creation time on client side using webworker and some wasm experiments
 - rust based another project i need to work on(maybe multi threaded web crawler?) (and if i combine the webcrawler project with wasm and give the real time demo then it would be more awesome)
+
