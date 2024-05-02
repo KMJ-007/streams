@@ -75,4 +75,4 @@ video person : https://youtu.be/qQk94CjRvIs?si=6Dvg0SfZ3jCTxqKK
 
 
 
-and i am still trying to wrap my mind around how serverless database works, i know instant replicas hack, so read will me much more faster and distributed but write will be expensive, but all this new startups and their claims still don't make sense, maybe skill issue or they are just jargons wraped in some old thing, will write when i explore database, at current stage i am crying and learning about how to architect your database schema, so you don't need to sleepless nights to fix data inconsistency issues!
+and i am still trying to wrap my mind around how serverless database works, i know instant replicas hack, so read will me much more faster and distributed but write will be expensive, but all this new startups and their claims still don't make sense, maybe skill issue or they are just jargons wraped in some old thing, will write when i explore database, at current stage i am crying and learning about how to architect your database schema, so i don't need to sleepless nights to fix data inconsistency issues!
