@@ -70,6 +70,7 @@ tbh, answer to any fucking question is it depends!
 here aws itself who is famous for aws lambda, amazon prime itself rewrote it'e microservice architecture to monolith, they publish article on this how they saved 90 % cost
 
 article person : https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90
+
 video person : https://youtu.be/qQk94CjRvIs?si=6Dvg0SfZ3jCTxqKK
 
 
