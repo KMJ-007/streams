@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Karan&#039;s Streams</title>
+      <link>https://kmj-007.github.io/streams</link>
+      <description>Last 10 notes on Karan&#039;s Streams</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>qdrant-gsoc</title>
+    <link>https://kmj-007.github.io/streams/qdrant-gsoc</link>
+    <guid>https://kmj-007.github.io/streams/qdrant-gsoc</guid>
+    <description>link: https://qdrant.notion.site/GSoC-2024-ideas-1dfcc01070094d87bce104623c4c1110 wanted to contribute to open source and with rust it is going to more awesome! so 18th march is the date to send the mail, before that i need to polish and work on few things to incerase my probability of getting selected for this basic principle is show don’t tell, giving them link to view the work then telling them i did this or that is more important first i need to complete two blogs: nodejs oberservability using signoz how we increased the pdf creation time on client side using webworker and some wasm experiments rust based another project i need to work on(maybe multi threaded web crawler?) (and if i combine the webcrawler project with wasm and give the real time demo then it would be more awesome) .</description>
+    <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>book shelf</title>
+    <link>https://kmj-007.github.io/streams/thoughts/book-shelf</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/book-shelf</guid>
+    <description>list of things which i want are on my to read or i have already read but want to reread skim through them and categorise them: https://arpitbhayani.me/papershelf https://notes.</description>
+    <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>how vite works ?</title>
+    <link>https://kmj-007.github.io/streams/thoughts/how-vite-works-</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/how-vite-works-</guid>
+    <description>my go to for most js related project is vite, from when i got introduced, i don’t ever think about webpack or other things, but i always have thought, how and where the magic is happening, at the very end, browser only understands three things, html, css, javascript, they don’t know what the hell is react, typescript and all other frameworks, so how this magic happens, this will be great rabbit hole to explore, will learn a lot of things guy here tries to explain this: https://www.</description>
+    <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Understanding authentication from first principle</title>
+    <link>https://kmj-007.github.io/streams/thoughts/Understanding-authentication-from-first-principle</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/Understanding-authentication-from-first-principle</guid>
+    <description> so i come across this tweet by chinmay, and i also thought, he has point, and talking BS, i also have macro view and believes which i read on the Internet and tutorial i learned from about the how to implement auth, i think i need to explore this rabbit hole, understanding authentication from first principle, starting from very basic example and deriving things as we need also pilcrow also announced few weeks ago, that he is also working on something similar.</description>
+    <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Automating Call Center</title>
+    <link>https://kmj-007.github.io/streams/thoughts/Automating-Call-Center</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/Automating-Call-Center</guid>
+    <description>i know few friends who do job at call center, at late night, many of them just sell insurance and other things in countries like uk and usa, despite lack of communication skill they are able to, i think using AI we can automate this whole process with more accuracy and higher chances of accuracy, but don’t want to exploit this, just want to do for fun, just need to give calling ability, text to speech, feeding back what the response was in to the model, and giving response back! calling friend and making prank in local language would be fun idea.</description>
+    <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Advanced Deepweb crawler</title>
+    <link>https://kmj-007.github.io/streams/thoughts/Advanced-Deepweb-crawler</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/Advanced-Deepweb-crawler</guid>
+    <description>i think building a deepweb crawler is going to be great project, and i found this research paper interesting, and thinking of implementing this in rust link to the paper: https://www.</description>
+    <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Nodejs observability</title>
+    <link>https://kmj-007.github.io/streams/thoughts/Nodejs-observability</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/Nodejs-observability</guid>
+    <description>need to setup a good observability and error tracking for nodejs and lot of people really struggle with this, so need to write a blog about this also.</description>
+    <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>java chip8 emulator</title>
+    <link>https://kmj-007.github.io/streams/thoughts/java-chip8-emulator</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/java-chip8-emulator</guid>
+    <description>chip 8 emulator project seems to be very interesting, and i also need to submit that for the college project, so need to build this project resources and links: https://tobiasvl.</description>
+    <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>sentry error and LLm based github PR</title>
+    <link>https://kmj-007.github.io/streams/thoughts/sentry-error-and-LLm-based-github-PR</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/sentry-error-and-LLm-based-github-PR</guid>
+    <description>this is going to be great project, give access to the your github repo, give api access to the sentry, bot will see the errors from the sentry and will automatically create the github PR for you which fixes the error, this small small are really simple but are overlooked lot of time plz write a blog if you end up doing this, will be helpful to the other people.</description>
+    <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>concurrency</title>
+    <link>https://kmj-007.github.io/streams/thoughts/concurrency</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/concurrency</guid>
+    <description>need to understand the concurrency and parallelism.</description>
+    <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
