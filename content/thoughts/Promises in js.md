@@ -179,7 +179,7 @@ return result * 2;
   
 });
 ```
-![[Pasted image 20240423105339.png]]
+![[promise chaining.png]]
  adding many then don't means chaining, they don't forward the result to the next thing, they act as independent promise
  ```js
  let promise = new Promise(function(resolve, reject) {
@@ -378,7 +378,7 @@ put it more simply, when a promise is ready, its `.then/catch/finally` handler
 
 That’s why “code finished” in the example above shows first.
 
-![[Pasted image 20240423123418.png]]
+![[promise event loop-1.png]]
 
 
 internal implementation if you are interested of apis of promise:
