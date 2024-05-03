@@ -1,9 +1,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://kmj-007.github.io/streams/images/headless-commerce</loc>
+    <lastmod>2024-03-17T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://kmj-007.github.io/streams/</loc>
     <lastmod>2024-02-09T14:22:37.163Z</lastmod>
-  </url><url>
-    <loc>https://kmj-007.github.io/streams/qdrant-gsoc</loc>
-    <lastmod>2024-02-22T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://kmj-007.github.io/streams/tags/evergreen</loc>
     <lastmod>2024-02-10T18:46:35.986Z</lastmod>
@@ -23,8 +23,32 @@
     <loc>https://kmj-007.github.io/streams/thoughts/Automating-Call-Center</loc>
     <lastmod>2024-02-19T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/Database-schema-and-architecture-mistakes-and-learnings</loc>
+    <lastmod>2024-05-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/English-speaking-coach</loc>
+    <lastmod>2024-02-28T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/Minecraft-redstone-llm-budy</loc>
+    <lastmod>2024-02-28T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://kmj-007.github.io/streams/thoughts/Nodejs-observability</loc>
     <lastmod>2024-02-18T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/Promises-in-js</loc>
+    <lastmod>2024-04-23T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/Qdrant-GSoC-2024-Proposal</loc>
+    <lastmod>2024-03-30T18:21:48.168Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/Short-form-Ai-story-teller</loc>
+    <lastmod>2024-02-28T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/Tezi/GTM</loc>
+    <lastmod>2024-03-17T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/Tezi/</loc>
+    <lastmod>2024-03-17T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://kmj-007.github.io/streams/thoughts/Understanding-authentication-from-first-principle</loc>
     <lastmod>2024-02-20T00:00:00.000Z</lastmod>
@@ -35,8 +59,8 @@
     <loc>https://kmj-007.github.io/streams/thoughts/</loc>
     <lastmod>2024-02-11T00:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://kmj-007.github.io/streams/thoughts/book-shelf</loc>
-    <lastmod>2024-02-21T00:00:00.000Z</lastmod>
+    <loc>https://kmj-007.github.io/streams/thoughts/bare-metal</loc>
+    <lastmod>2024-05-02T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://kmj-007.github.io/streams/thoughts/concurrency</loc>
     <lastmod>2024-02-15T00:00:00.000Z</lastmod>
@@ -44,18 +68,60 @@
     <loc>https://kmj-007.github.io/streams/thoughts/encryption</loc>
     <lastmod>2024-02-15T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/failure-resume</loc>
+    <lastmod>2024-05-02T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/fastai/</loc>
+    <lastmod>2024-02-29T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/fastai/lesson-1</loc>
+    <lastmod>2024-02-29T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://kmj-007.github.io/streams/thoughts/good-engineers</loc>
     <lastmod>2024-02-12T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://kmj-007.github.io/streams/thoughts/how-vite-works-</loc>
     <lastmod>2024-02-21T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/hypervisor</loc>
+    <lastmod>2024-05-02T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://kmj-007.github.io/streams/thoughts/java-chip8-emulator</loc>
     <lastmod>2024-02-18T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/javascript-rants</loc>
+    <lastmod>2024-05-02T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/jit</loc>
+    <lastmod>2024-03-19T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/programming-books</loc>
+    <lastmod>2024-02-27T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/qdrant-gsoc</loc>
+    <lastmod>2024-02-22T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://kmj-007.github.io/streams/thoughts/quotes</loc>
     <lastmod>2024-02-11T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/self-help-books-are-mirage</loc>
+    <lastmod>2024-05-03T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://kmj-007.github.io/streams/thoughts/sentry-error-and-LLm-based-github-PR</loc>
     <lastmod>2024-02-18T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/serverless</loc>
+    <lastmod>2024-05-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/so-you-know-yarvin-right</loc>
+    <lastmod>2024-05-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/space-rag-app</loc>
+    <lastmod>2024-04-11T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/to-read-book</loc>
+    <lastmod>2024-02-21T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://kmj-007.github.io/streams/thoughts/toc</loc>
+    <lastmod>2024-03-24T00:00:00.000Z</lastmod>
   </url></urlset>

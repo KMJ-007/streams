@@ -6,65 +6,65 @@
       <description>Last 10 notes on Karan&#039;s Streams</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>qdrant-gsoc</title>
-    <link>https://kmj-007.github.io/streams/qdrant-gsoc</link>
-    <guid>https://kmj-007.github.io/streams/qdrant-gsoc</guid>
-    <description>link: https://qdrant.notion.site/GSoC-2024-ideas-1dfcc01070094d87bce104623c4c1110 wanted to contribute to open source and with rust it is going to more awesome! so 18th march is the date to send the mail, before that i need to polish and work on few things to incerase my probability of getting selected for this basic principle is show don’t tell, giving them link to view the work then telling them i did this or that is more important first i need to complete two blogs: nodejs oberservability using signoz how we increased the pdf creation time on client side using webworker and some wasm experiments rust based another project i need to work on(maybe multi threaded web crawler?) (and if i combine the webcrawler project with wasm and give the real time demo then it would be more awesome) .</description>
-    <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+    <title>self help books are mirage</title>
+    <link>https://kmj-007.github.io/streams/thoughts/self-help-books-are-mirage</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/self-help-books-are-mirage</guid>
+    <description></description>
+    <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>book shelf</title>
-    <link>https://kmj-007.github.io/streams/thoughts/book-shelf</link>
-    <guid>https://kmj-007.github.io/streams/thoughts/book-shelf</guid>
-    <description>list of things which i want are on my to read or i have already read but want to reread skim through them and categorise them: https://arpitbhayani.me/papershelf https://notes.</description>
-    <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+    <title>bare-metal</title>
+    <link>https://kmj-007.github.io/streams/thoughts/bare-metal</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/bare-metal</guid>
+    <description>wtf is bare metal ? computer that talks directly does mouth to mouth communication with hardware, no lipstick, no makeup anything in between, no os, nothing, application directly uses all the resource it needs, can i call my laptop bare metal ? Yes, you can refer to your laptop as a “bare metal” system if you are running applications directly on the laptop’s hardware without any virtualization or operating system layer in between.</description>
+    <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>how vite works ?</title>
-    <link>https://kmj-007.github.io/streams/thoughts/how-vite-works-</link>
-    <guid>https://kmj-007.github.io/streams/thoughts/how-vite-works-</guid>
-    <description>my go to for most js related project is vite, from when i got introduced, i don’t ever think about webpack or other things, but i always have thought, how and where the magic is happening, at the very end, browser only understands three things, html, css, javascript, they don’t know what the hell is react, typescript and all other frameworks, so how this magic happens, this will be great rabbit hole to explore, will learn a lot of things guy here tries to explain this: https://www.</description>
-    <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+    <title>failure-resume</title>
+    <link>https://kmj-007.github.io/streams/thoughts/failure-resume</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/failure-resume</guid>
+    <description>in today’s world most people make resume, in which they showcase their highlights and their best wins, as i have bet with my friend to not make professional resume, which is fun and forces me to think new ways to tackling things and approaching them.</description>
+    <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Understanding authentication from first principle</title>
-    <link>https://kmj-007.github.io/streams/thoughts/Understanding-authentication-from-first-principle</link>
-    <guid>https://kmj-007.github.io/streams/thoughts/Understanding-authentication-from-first-principle</guid>
-    <description> so i come across this tweet by chinmay, and i also thought, he has point, and talking BS, i also have macro view and believes which i read on the Internet and tutorial i learned from about the how to implement auth, i think i need to explore this rabbit hole, understanding authentication from first principle, starting from very basic example and deriving things as we need also pilcrow also announced few weeks ago, that he is also working on something similar.</description>
-    <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+    <title>hypervisor</title>
+    <link>https://kmj-007.github.io/streams/thoughts/hypervisor</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/hypervisor</guid>
+    <description>it is just abstraction over host operating system, you remember there is concept of virtual memory, memory which physical don’t exist but to make things simpler we create virtual memory, hypervisor is also like the same we can say! hypervisor is nothing but a piece of software which makes easy to create and monitor different different virtual machines remeber playing with this bad boy ? wasting days trying to boot macos ? there are different different types of hypervisors: .</description>
+    <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Automating Call Center</title>
-    <link>https://kmj-007.github.io/streams/thoughts/Automating-Call-Center</link>
-    <guid>https://kmj-007.github.io/streams/thoughts/Automating-Call-Center</guid>
-    <description>i know few friends who do job at call center, at late night, many of them just sell insurance and other things in countries like uk and usa, despite lack of communication skill they are able to, i think using AI we can automate this whole process with more accuracy and higher chances of accuracy, but don’t want to exploit this, just want to do for fun, just need to give calling ability, text to speech, feeding back what the response was in to the model, and giving response back! calling friend and making prank in local language would be fun idea.</description>
-    <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+    <title>javascript-rants</title>
+    <link>https://kmj-007.github.io/streams/thoughts/javascript-rants</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/javascript-rants</guid>
+    <description>wtf is cjs and mjs ?.</description>
+    <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Advanced Deepweb crawler</title>
-    <link>https://kmj-007.github.io/streams/thoughts/Advanced-Deepweb-crawler</link>
-    <guid>https://kmj-007.github.io/streams/thoughts/Advanced-Deepweb-crawler</guid>
-    <description>i think building a deepweb crawler is going to be great project, and i found this research paper interesting, and thinking of implementing this in rust link to the paper: https://www.</description>
-    <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+    <title>Database schema and architecture mistakes and learnings</title>
+    <link>https://kmj-007.github.io/streams/thoughts/Database-schema-and-architecture-mistakes-and-learnings</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/Database-schema-and-architecture-mistakes-and-learnings</guid>
+    <description></description>
+    <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Nodejs observability</title>
-    <link>https://kmj-007.github.io/streams/thoughts/Nodejs-observability</link>
-    <guid>https://kmj-007.github.io/streams/thoughts/Nodejs-observability</guid>
-    <description>need to setup a good observability and error tracking for nodejs and lot of people really struggle with this, so need to write a blog about this also.</description>
-    <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+    <title>serverlesss</title>
+    <link>https://kmj-007.github.io/streams/thoughts/serverless</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/serverless</guid>
+    <description>Thoughts learnings while i was messing with serverless, despite i knew the hype, but i still wanted to get my hands burnt! what do we even mean by serverless in first place ? there is no server ? then where does our code runs ???? so let’s try to understand where the problem lies which serverless computing is trying to solve, imagine you are using normal server for serving your users, they normally use in day time, everything is going good, you are paying for rented server through xy service, and servers are running 24/7, but user don’t use your software 24/7, they are also human, they also sleep, they also do other things, so we are paying for server rent when we are not using also! here comes the serverless in the picture, we only pay for what we use, so when someone sends request to our backend server, it will wake up, process the request, and then go offline, and we only pay for what amount of time we used! okay but math is not mathing, when we call request our backend in serverless, it will take some time to wake up and in net net res time will increase right ? cold start problem: yes!, this problem is called cold start problem in world of serverless computing, what you think aws knows something black magic or other serverless providers, cold start problem occurs when it is first time someone is invoking(fancy word for calling or making request) your serverless function, service which you are using will spin up new container to execute the code, and spinning up new container will take some time, which we called as cold start time, but once container is up, if any new request comes then there will be no cold start time! only one company has solved cold start problem, which is cloudflare, they have taken different approach for running serverless functions, most serverless computing providers runs serverless code in new containers, but cloudflare handles this differently: aws lambda runs nodejs where as cloudflare workers runs v8 engine Cloudflare Workers runtime uses the Chrome V8 Engine to run Javascript code.</description>
+    <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>java chip8 emulator</title>
-    <link>https://kmj-007.github.io/streams/thoughts/java-chip8-emulator</link>
-    <guid>https://kmj-007.github.io/streams/thoughts/java-chip8-emulator</guid>
-    <description>chip 8 emulator project seems to be very interesting, and i also need to submit that for the college project, so need to build this project resources and links: https://tobiasvl.</description>
-    <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+    <title>so you know yarvin right?</title>
+    <link>https://kmj-007.github.io/streams/thoughts/so-you-know-yarvin-right</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/so-you-know-yarvin-right</guid>
+    <description>so you know yarvin right? how it started: and now i am writing about it, and why it is great question to ask if you want to know the other person better, how they think and what they think:.</description>
+    <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>sentry error and LLm based github PR</title>
-    <link>https://kmj-007.github.io/streams/thoughts/sentry-error-and-LLm-based-github-PR</link>
-    <guid>https://kmj-007.github.io/streams/thoughts/sentry-error-and-LLm-based-github-PR</guid>
-    <description>this is going to be great project, give access to the your github repo, give api access to the sentry, bot will see the errors from the sentry and will automatically create the github PR for you which fixes the error, this small small are really simple but are overlooked lot of time plz write a blog if you end up doing this, will be helpful to the other people.</description>
-    <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+    <title>Promises in js</title>
+    <link>https://kmj-007.github.io/streams/thoughts/Promises-in-js</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/Promises-in-js</guid>
+    <description>what are Promise in Javascript ? They are similar to real life promise, how we make promise to someone that i am making promise that i will come meet you, same way we are just telling that, this piece code will get executed in future.</description>
+    <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
   </item><item>
-    <title>concurrency</title>
-    <link>https://kmj-007.github.io/streams/thoughts/concurrency</link>
-    <guid>https://kmj-007.github.io/streams/thoughts/concurrency</guid>
-    <description>need to understand the concurrency and parallelism.</description>
-    <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+    <title>space-rag-app</title>
+    <link>https://kmj-007.github.io/streams/thoughts/space-rag-app</link>
+    <guid>https://kmj-007.github.io/streams/thoughts/space-rag-app</guid>
+    <description>creating a rag based app to help space guys to get things more easily using this as my rough notes and thinking ground, main goal is ki log question puch sake, they can get guidance, simplifying terms in easier way, code generation specific to repo and open source projects.</description>
+    <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
