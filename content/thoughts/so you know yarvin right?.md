@@ -3,6 +3,7 @@ title: so you know yarvin right?
 date: 2024-05-01
 tags:
   - seed
+  - pending
 enableToc: false
 ---
 so you know yarvin right?

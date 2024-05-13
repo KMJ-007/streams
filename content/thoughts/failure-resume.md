@@ -3,6 +3,7 @@ title: failure-resume
 date: 2024-05-02
 tags:
   - evergreen
+  - pending
 enableToc: false
 ---
 in today's world most people make resume, in which they showcase their highlights and their best wins, as i have bet with my friend to not make professional resume, which is fun and forces me to think new ways to tackling things and approaching them. 

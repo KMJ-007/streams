@@ -3,6 +3,7 @@ title: Understanding authentication from first principle
 date: 2024-02-20
 tags:
   - seed
+  - pending
 enableToc: false
 ---
 

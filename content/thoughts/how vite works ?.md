@@ -3,6 +3,7 @@ title: how vite works ?
 date: 2024-02-21
 tags:
   - seed
+  - pending
 enableToc: false
 ---
 my go to for most js related project is vite, from when i got introduced, i don't ever think about webpack or other things, but i always have thought, how and where the magic is happening, at the very end, browser only understands three things, html, css, javascript, they don't know what the hell is react, typescript and all other frameworks, so how this magic happens,

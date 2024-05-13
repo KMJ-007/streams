@@ -4,6 +4,7 @@ date: 2024-02-28
 tags:
   - seed
   - project
+  - pending
 enableToc: false
 ---
 ![[minceraft-redstone-llm.png]]

@@ -4,6 +4,7 @@ date: 2024-02-18
 tags:
   - seed
   - project
+  - pending
 enableToc: false
 ---
 chip 8 emulator project seems to be very interesting, and i also need to submit that for the college project, so need to build this project

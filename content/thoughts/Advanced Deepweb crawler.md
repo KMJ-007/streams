@@ -4,6 +4,7 @@ date: 2024-02-18
 tags:
   - seed
   - project
+  - pending
 enableToc: false
 ---
 i think building a deepweb crawler is going to be great project, and i found this research paper interesting, and thinking of implementing this in rust
