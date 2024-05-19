@@ -6,6 +6,6 @@ tags:
   - pending
 enableToc: false
 ---
-![[Pasted image 20240513114847.png]]
+![[basic project.png]]
 
-![[Pasted image 20240513114855.png]]
+![[basic project2.png]]
