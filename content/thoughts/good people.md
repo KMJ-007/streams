@@ -21,4 +21,6 @@ i would poach them or work under them at any given time, i really admire them al
 - https://github.com/stong/rustos-hv
 
 
-
+### Eliza:
+- https://x.com/mycoliza
+- https://github.com/hawkw
