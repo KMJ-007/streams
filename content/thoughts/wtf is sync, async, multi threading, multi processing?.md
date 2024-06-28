@@ -141,3 +141,4 @@ thanks to this random guys from the internet because of them i understood this t
 - https://www.youtube.com/watch?v=0vFgKr5bjWI
 - https://youtu.be/AZnGRKFUU0c?si=FzvY6jZQLdh7_NjC
 - [threads are evil](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf)
+- [Multithreading vs multiprocessing - what to use when?](https://www.reddit.com/r/embedded/comments/aezf7n/multithreading_vs_multiprocessing_what_to_use_when/)
