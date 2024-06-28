@@ -156,3 +156,4 @@ thanks to this random guys from the internet because of them i understood this t
 - https://youtu.be/AZnGRKFUU0c?si=FzvY6jZQLdh7_NjC
 - [threads are evil](https://web.stanford.edu/~ouster/cgi-bin/papers/threads.pdf)
 - [Multithreading vs multiprocessing - what to use when?](https://www.reddit.com/r/embedded/comments/aezf7n/multithreading_vs_multiprocessing_what_to_use_when/)
+- [there is no thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
