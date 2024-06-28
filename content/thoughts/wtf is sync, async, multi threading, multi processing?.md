@@ -29,11 +29,17 @@ As far i have seen main confusion for people begins when they do async programmi
 
 let's take example and understand,
 ```javascript
-const response = await fetch(…);
-const json = await response.json();
-const foo = JSON.parse(json); 
-console.log(foo);
+async function1(){
+	const response = await fetch(…);
+	const json = await response.json();
+	const foo = JSON.parse(json); 
+	console.log(foo);
+}
+function 2(){
 console.log("hello Karan");
+}
+function1();
+function2();
 ```
 
 above example is pretty famous and simple, it fetches some endpoint, parses it and then prints it, that's it!
@@ -48,13 +54,21 @@ async await is just some syntactical sugar bullshit([[Promises in js|promise]]) 
 
 above same code as simpler version:
 ```javascript
+function1(){
 fetch(…)
   .then(response => response.json())
   .then(json => {
     const foo = JSON.parse(json);
     console.log(foo);
   });
-console.log("hello Karan");
+}
+
+function 2(){
+	console.log("hello Karan");
+}
+
+function1();
+function2();
 ```
 
 
