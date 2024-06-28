@@ -1,5 +1,5 @@
 ---
-title: sync, async, multi threading, multi processing
+title: wtf is sync, async, multi threading, multi processing?
 date: 2024-06-26
 tags:
   - seed
