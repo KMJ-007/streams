@@ -289,3 +289,35 @@ https://graydon2.dreamwidth.org/312681.html
     
 
 # Chapter 10:
+i already knew generic programming so it was not something new in rust also, i have cried enough in typescript to get this current feeling,
+
+one thing i liked about rust is there is no runtime cost or overhead when you use generics in rust, cuz we have our lovely compiler which comes here to help us
+
+>You might be wondering whether there is a runtime cost when using generic type parameters. The good news is that using generic types won't make your program run any slower than it would with concrete types.
+
+>Rust accomplishes this by performing monomorphization of the code using generics at compile time. _Monomorphization_ is the process of turning generic code into specific code by filling in the concrete types that are used when compiled. In this process, the compiler does the opposite of the steps we used to create the generic function in Listing 10-5: the compiler looks at all the places where generic code is called and generates code for the concrete types the generic code is called with.
+
+ex.
+
+```rust
+// written code:
+let integer = Some(5);
+let float = Some(5.0);
+
+
+//compilor will turn this into
+enum Option_i32 {
+    Some(i32),
+    None,
+}
+
+enum Option_f64 {
+    Some(f64),
+    None,
+}
+
+fn main() {
+    let integer = Option_i32::Some(5);
+    let float = Option_f64::Some(5.0);
+}
+```
