@@ -321,3 +321,5 @@ fn main() {
     let float = Option_f64::Some(5.0);
 }
 ```
+
+i tried very hard, watched lots of videos, but i didn't understand the lifetimes in rust, maybe more i will use it, i will get more idea and intuition about this, but this thing is really confusing 
