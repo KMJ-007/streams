@@ -323,3 +323,11 @@ fn main() {
 ```
 
 i tried very hard, watched lots of videos, but i didn't understand the lifetimes in rust, maybe more i will use it, i will get more idea and intuition about this, but this thing is really confusing 
+
+# Chapter 11:
+testing is important, i learned few things while writing lisp intrepreter in rust
+
+if i run the test, and there are multiple test then it will run in parallel, lot of things i read in the chapter, but i think as i will write more test i will get more gist of it, and i should keep habit of writing test from the beginning 
+
+# Chapter 12:
+it's project time yes!!!!
