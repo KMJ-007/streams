@@ -10,106 +10,38 @@ recently someone asked me who programmer i admire and feel fomo(not exactly fomo
 
 in no particular order(still updating the doc):
 
-### Eric Zhang
-[site].  [github]()
-why?
-what?
-special remarks?
-### sergey brin
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Eric Zhang](https://www.ekzhang.com/)
+### [sergey brin](http://infolab.stanford.edu/~sergey/)
 
-### Simon Hørup Eskildsen
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Simon Hørup Eskildsen](https://sirupsen.com/)
 
-### Mikhail Parakhin
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Mikhail Parakhin](https://x.com/mparakhin?lang=en)
 
-### john carmack
-[site].  [github]()
-why?
-what?
-special remarks?
+### [john carmack](https://x.com/ID_AA_Carmack)
 
-### Andrew Gallant
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Andrew Gallant](https://blog.burntsushi.net/about/)
 
-### Adeeb Shihadeh
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Adeeb Shihadeh](https://blog.burntsushi.net/about/)
 
-### Mitchell Hashimoto
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Mitchell Hashimoto](https://mitchellh.com/)
 
-### Sergey Slotin
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Sergey Slotin](http://sereja.me/)
 
-### Manish Gill(mgill25)
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Manish Gill](https://github.com/mgill25)
 
-### (cts)(zelic)
-[site].  [github]()
-why?
-what?
-special remarks?
+### [(cts)(zelic)](https://pwn.cat/)
 
-### Georgios Konstantopoulos
-[site].  [github]()
-why?
-what?
-special remarks?
-### Simon Willison
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Georgios Konstantopoulos](https://www.gakonst.com/)
 
-### Evan Wallace
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Simon Willison](https://simonwillison.net/)
 
-### sidu ponnappa
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Evan Wallace](https://madebyevan.com/)
 
-### Georgi Gerganov
-[site].  [github]()
-why?
-what?
-special remarks?
+### [sidu ponnappa](https://sidu.in/)
 
-### Andrejkarpathy
-[site].  [github]()
-why?
-what?
-special remarks?
+### [Georgi Gerganov](https://ggerganov.com/)
 
+### [Andrej karpathy](https://karpathy.ai/)
 
 [Alisa Sireneva](https://gitlab.com/purplesyringa)
 
